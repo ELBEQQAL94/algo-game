@@ -20,7 +20,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\evaluate-reverse-polish-notation\\evaluate-reverse-polish-notation.js"
+            "program": "${workspaceFolder}\\generate-parentheses\\generate-parentheses.js"
         }
     ]
 }
