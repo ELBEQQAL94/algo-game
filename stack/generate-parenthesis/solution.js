@@ -22,5 +22,5 @@ function generateParenthesis(n) {
     
     backtrack('', 0, 0);
     
-    return result;
+    return result;
 }
