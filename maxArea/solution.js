@@ -16,7 +16,7 @@ var maxArea = function(height) {
             let currentMax = righValue * (right - left)
             if(maxArea < currentMax)
                 maxArea = currentMax
-            right++;
+            right--;
          }
 
     }
